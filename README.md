@@ -1,13 +1,13 @@
 # Bank_account-Using-OOP-
 
-Files:
+	Files:
 	1.main.cpp
 	2.Bank_account.cpp
 	3.Bank_account.h
 
-  Initial 2 entries are already created- 1. UserId - 1                    2.UserId - 2
-				                                  Password - pass123              Password - 123pass
-				                                  Balance - 1000                  Balance - 1500
+  	Initial 2 entries are already created- 1. UserId - 1, Password - pass123, Balance - 1000          
+	2.UserId - 2, Password - 123pass, Balance - 1500
+				                                                  
 	Then, if user wants to create his own account he is asked to enter 1, else 0, then he is assigned with Id 3
 	and is asked to create password, and initial balance is 500 and then function is called where one has to enter 
 	id and then password and if it matches then again user is asked if he wants to withdraw(press 1), deposit(press 2),
